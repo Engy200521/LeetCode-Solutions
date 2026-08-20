@@ -1,2 +1,7 @@
-# LeetCode-Solutions
-"My personal journey on LeetCode. A curated collection of well-structured and optimized solutions to data structures and algorithms problems using C++."
+# 🚀 حلول مسائل LeetCode الخاصة بي
+
+مرحباً بك في مستودعي! هنا أقوم بجمع وتوثيق حلولي لمسائل موقع LeetCode بهدف تطوير مهاراتي في حل المشكلات (Problem Solving) وتطوير تفكيري البرمجي بلغة C++.
+
+| الرقم | اسم المسألة | الحل في المستودع | الصعوبة |
+| :---: | :--- | :---: | :---: |
+| 0001 | [Two Sum](https://leetcode.com) | [C++](./0001-Two-Sum/solution.cpp) | 🟢 Easy |
