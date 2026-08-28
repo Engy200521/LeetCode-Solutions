@@ -11,3 +11,7 @@
 | 0002 | [Add Two Numbers](https://leetcode.com) | [C++](./0002_Add_Two_Numbers/solution.cpp) | 🟡 Medium |
 
 
+| الرقم | اسم المسألة | الحل في المستودع | الصعوبة |
+| :---: | :--- | :---: | :---: |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com) | [C++](./solution.cpp) | 🟡 Medium |
+
