@@ -5,10 +5,12 @@ Welcome to my repository! Here, I gather and document my solutions for LeetCode 
 
 
 
+
 | # | Problem Name | Solution | Difficulty |
 | :---: | :--- | :---: | :---: |
-| 0001 | Two Sum | C++ | 🟢 Easy |
-| 0002 | Add Two Numbers | C++ | 🟡 Medium |
-| 0003 | Longest Substring Without Repeating Characters | C++ | 🟡 Medium |
+| 0001 | [Two Sum](https://leetcode.com) | [C++](./) | 🟢 Easy |
+| 0002 | [Add Two Numbers](https://leetcode.com) | [C++](./) | 🟡 Medium |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com) | [C++](./) | 🟡 Medium |
+
 
 
