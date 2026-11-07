@@ -1,14 +1,17 @@
-class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int , int>seen;
-        for(int i=0 ; i < nums.size() ; i++) {
-            int complement = target - nums[i];
-            if(seen.find(complement) != seen.end()) {
-                return { seen[complement] , i};
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    let x , y;
+    for (let i = 0; i < nums.length; i++) {
+        x = nums[i];
+        for (let j = i+1; j < nums.length; j++) {
+            y = nums[j];
+            if (x + y === target) {
+                return [i ,  j];
             }
-            seen[nums[i]] =i;
         }
-        return {};
     }
 };
