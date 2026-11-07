@@ -8,6 +8,6 @@ Welcome to my repository! Here, I gather and document my solutions for LeetCode 
 
 | # | Problem Name | Solution | Difficulty |
 | :---: | :--- | :---: | :---: |
-| 0001 | [Two Sum](https://leetcode.com) | [JavaScript](./Two-Sum.js) | 🟢 Easy |
-| 0009 | [Palindrome Number](https://leetcode.com) | [JavaScript](./Palindrome-Number.js) | 🟢 Easy|
+| 0001 | [Two Sum](https://leetcode.com) | [JavaScript](./solution.js) | 🟢 Easy |
+| 0009 | [Palindrome Number](https://leetcode.com) | [JavaScript](./solution.js) | 🟢 Easy|
 
